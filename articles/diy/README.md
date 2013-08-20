@@ -1,0 +1,1 @@
+This directory can house our diy projects that are complete and ready for the world to see.  Perhaps this can even link to our organization's main page if we are going to have all of our permanent goings-on there eventually.
